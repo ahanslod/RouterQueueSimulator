@@ -1,5 +1,5 @@
 # RouterQueueSimulator
-# Introduction to Data Networks #
+## Introduction to Data Networks ##
 
 ### Simulation ###
 
